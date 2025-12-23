@@ -2,7 +2,7 @@ title: Gino's Site
 description: My personal site to blog about architecture, coding, hacking, books, the outdoors, and whatever has caught my bucaneer fancy.
 
 url: "https://GinoAC.github.io"
-baseurl: "/docs"
+baseurl: "/GinoAC.github.io"
 theme: minima
 markdown: kramdown
 highlighter: rouge
