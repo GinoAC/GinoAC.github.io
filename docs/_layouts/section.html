@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+<p>{{ content }}</p>
+
+{% for post in site.posts %}
+  {% if post.section == page.section %}
+    <article style="margin-bottom: 2rem;">
+      <h2>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h2>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+
+      <p>{{ post.excerpt | strip_html }}</p>
+
+      <a href="{{ site.baseurl }}{{ post.url }}">Read more →</a>
+    </article>
+  {% endif %}
+{% endfor %}
