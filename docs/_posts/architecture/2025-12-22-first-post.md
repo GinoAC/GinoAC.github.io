@@ -1,8 +1,18 @@
 ---
-layout: post 
+title: First Post
 section: architecture
-tags: [architecture]
-title: "Starting Out!"
+tags: [architecture, security]
 ---
 
-Content here...
+Intro paragraph.
+
+<!--more-->
+
+Rest of post.
+
+---
+
+**Tags:**
+{% for tag in page.tags %}
+[`{{ tag }}`]({{ site.baseurl }}/tags/#{{ tag | slugify }})
+{% endfor %}

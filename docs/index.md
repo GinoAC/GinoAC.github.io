@@ -1,14 +1,12 @@
 ---
-layout: page
 title: Home
 ---
+
+{% include nav.html %}
 
 ## Recent Posts
 
 {% for post in site.posts limit:5 %}
 ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-<small>{{ post.date | date: "%Y-%m-%d" }}</small>
-
 {{ post.excerpt | strip_html }}
-
 {% endfor %}
