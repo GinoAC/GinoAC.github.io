@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About Me
+layout: page 
+title: About
 ---
 
 ## Gino C.
@@ -24,5 +24,3 @@ systems, performance, and microarchitectural security.
 ## Online
 - GitHub: [https://github.com/GinoAC](https://github.com/GinoAC)
 - Google Scholar: [Profile](https://scholar.google.com/citations?user=rqlz9aMAAAAJ&hl=en&oi=ao)
-- Twitter / Mastodon / Bluesky: link
-- Email: name [at] domain

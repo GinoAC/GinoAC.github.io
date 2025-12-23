@@ -1,15 +1,7 @@
 ---
-layout: none
+layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-  {% include head.html %}
-  <body>
-    {% include nav.html %}   <!-- 👈 your navbar -->
+{% include nav.html %}
 
-    <main class="container">
-      {{ content }}
-    </main>
-  </body>
-</html>
+{{ content }}
