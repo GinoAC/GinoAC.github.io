@@ -3,6 +3,8 @@ safe: true
 source: /docs
 incremental: false
 highlighter: rouge
+url: "https://GinoAC.github.io"
+baseurl: "/docs/"
 gist:
   noscript: false
 kramdown:
