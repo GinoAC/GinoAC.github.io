@@ -1,5 +1,5 @@
 title: Gino's Site
-description: My personal site to blog about architecture, coding, hacking, books, the outdoors, and whatever has caught my bucaneer fancy.
+description: {% include nav.html %}
 
 remote_theme: pages-themes/slate@v0.2.0
 
