@@ -1,0 +1,18 @@
+<header class="site-header">
+
+  {% if page.url == "/" or page.url == site.baseurl or page.url == site.baseurl | append: "/" %}
+    <div class="wrapper">
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    </div>
+  {% endif %}
+
+  <nav class="site-nav">
+    <div class="wrapper">
+      <a href="{{ "/" | relative_url }}">Home</a>
+      <a href="{{ "/architecture/" | relative_url }}">Architecture</a>
+      <a href="{{ "/tags/" | relative_url }}">Tags</a>
+      <a href="{{ "/about/" | relative_url }}">About</a>
+    </div>
+  </nav>
+
+</header>

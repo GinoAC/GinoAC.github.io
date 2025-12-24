@@ -2,7 +2,6 @@
 layout: page 
 title: About
 ---
-{% include nav.html %}
 
 ## Gino C.
 

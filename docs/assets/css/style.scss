@@ -1,8 +1,17 @@
-.site-nav {
-  padding: 1rem 0;
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ===== Custom overrides below ===== */
+
+.site-header,
+.site-footer {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
-.site-nav a {
-  margin-right: 1.5rem;
-  font-weight: 600;
+.page-content {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
