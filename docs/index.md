@@ -8,5 +8,5 @@ My personal site to blog about architecture, coding, hacking, books, the outdoor
 
 {% for post in site.posts limit:10 %}
 ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-{{ post.excerpt | strip_html }}
+{{ post.excerpt | strip_html | truncatewords: 40}}
 {% endfor %}
