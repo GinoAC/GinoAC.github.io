@@ -3,11 +3,7 @@ title: Placeholder
 section: bmm 
 tags: [bmm]
 ---
-{% include nav.html %}
-
 Intro paragraph.
-
-<!--more-->
 
 Rest of post.
 

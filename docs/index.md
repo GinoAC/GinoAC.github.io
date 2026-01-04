@@ -4,8 +4,6 @@ title: Home
 
 My personal site to blog about architecture, coding, hacking, books, the outdoors, and whatever has caught my bucaneer fancy.
 
-{% include nav.html %}
-
 ## Recent Posts
 
 {% for post in site.posts limit:10 %}

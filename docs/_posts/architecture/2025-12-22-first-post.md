@@ -3,11 +3,7 @@ title: First Post
 section: architecture
 tags: [architecture, security]
 ---
-{% include nav.html %}
-
 Intro paragraph.
-
-<!--more-->
 
 Rest of post.
 

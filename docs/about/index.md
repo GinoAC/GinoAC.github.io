@@ -3,8 +3,6 @@
 title: About
 ---
 
-{% include nav.html %}
-
 ## Gino C.
 
 I am a computer architecture researcher with a PhD specializing in memory
