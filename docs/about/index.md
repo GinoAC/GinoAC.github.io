@@ -5,19 +5,22 @@ title: About
 
 ## Gino C.
 
-I am a computer architecture researcher with a PhD specializing in memory
+I am a computer architect based out of Portland, OR with a PhD specializing in memory
 systems, performance, and microarchitectural security. 
+
+I'm currently working at AheadComputing Inc. as a BPU architect. 
+
+I spend a good deal offree time tinkering with hardware, computer architecture, and security or
+ thinking about those topics while enjoying the great outdoors.
 
 ---
 
 ## Interests
 - Computer Architecture
+- Hardware Security
 - RISC-V
-
----
-
-## Projects
-- Architecture & security blog posts (this site)
+- Operating Systems
+- Compilers
 
 ---
 
