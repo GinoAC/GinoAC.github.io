@@ -10,8 +10,7 @@ systems, performance, and microarchitectural security.
 
 I'm currently working at AheadComputing Inc. as a BPU architect. 
 
-I spend a good deal offree time tinkering with hardware, computer architecture, and security or
- thinking about those topics while enjoying the great outdoors.
+Outside of work, I spend a good deal of my time tinkering with retrogaming hardware, poking at security topics, or out enjoying the great outdoors.
 
 ---
 
@@ -25,5 +24,6 @@ I spend a good deal offree time tinkering with hardware, computer architecture, 
 ---
 
 ## Online
-- GitHub: [https://github.com/GinoAC](https://github.com/GinoAC)
+- GitHub: [GinoAC](https://github.com/GinoAC)
 - Google Scholar: [Profile](https://scholar.google.com/citations?user=rqlz9aMAAAAJ&hl=en&oi=ao)
+- Projects & Publications: [Projects]({{ site.baseurl }}/projects/)
