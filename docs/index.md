@@ -2,7 +2,7 @@
 title: Home
 ---
 
-A blog covering computer architecture, microarchitectural security, systems programming, and research — with occasional detours into books, music, and whatever else is on my mind. Written by a computer architecture PhD with a focus on memory systems, performance, and security.
+A blog covering computer architecture, microarchitectural security, systems programming, and research. Expect occasional detours into books, music, and whatever else is on my mind. 
 
 ## Recent Posts
 
