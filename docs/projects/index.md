@@ -3,12 +3,15 @@ title: Projects
 ---
 
 ## Current Projects
+---
 
 ### An Impractical Approach to Understanding Microarchitectural Predictors
 
 ### Homebrew Compute Cluster
 
+---
 ## Projects
+---
 
 ### Prefetching
 
@@ -23,8 +26,8 @@ title: Projects
 ### ChampSim
 
 ---
-
 ## Publications
+---
 
 **ORAP: Optimized Row Access Prefetching for Rowhammer-mitigated Memory**  
 M Merrell, D Puckett, G Chacon, J Stuecheli, S Kalafatis, PV Gratz  
@@ -87,8 +90,8 @@ E Bhatia, G Chacon, E Teran, PV Gratz, DA Jiménez
 *Data Prefetching Championship (DPC3)*, 2019
 
 ---
-
 ## Patents
+---
 
 **Providing Dead-Block Prediction for Determining Whether to Cache Data in Cache Devices**  
 AR Alameldeen, G Chacon  
