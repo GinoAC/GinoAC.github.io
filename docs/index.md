@@ -2,7 +2,7 @@
 title: Home
 ---
 
-My personal site to blog about architecture, coding, hacking, books, the outdoors, and whatever has caught my bucaneer fancy.
+A blog covering computer architecture, microarchitectural security, systems programming, and research — with occasional detours into books, music, and whatever else is on my mind. Written by a computer architecture PhD with a focus on memory systems, performance, and security.
 
 ## Recent Posts
 
