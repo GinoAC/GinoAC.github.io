@@ -26,17 +26,9 @@ Outside of work, I spend a good deal of my time tinkering with retrogaming hardw
 
 ## Projects
 
-### Current Projects
-
-* **BPU Architecture at a Startup**
-
-* **An Impractical Approach to Understanding Microarchitectural Predictors** — Exploring information theory and automata to figure out what sort of weird machines predictors are made of.
-
-* **Homebrew Compute Cluster** — Building a cluster from old laptops and seeing how many simulations I can run in parallel before it crashes.
-
-### Projects
-
 * **Software Instruction Prefetching**
+
+* **Data and Instruction Cache Management**
 
 * **Coherence Simulation (C-Ramulator)**
 
@@ -52,9 +44,21 @@ Outside of work, I spend a good deal of my time tinkering with retrogaming hardw
 
 ## Service
 
-_Content coming soon._
+MICRO 2024 Sponsorship Chair
+MICRO 2024 Artifact Evaluation Co-Chair
 
----
+[2nd Cache Replacement Championship Submissions Chair](https://crc2.ece.tamu.edu/)
+
+MICRO Top Picks - Technical Assistant
+
+Helping Random People Debug ChampSim for 4+ years
+
+### Program Committees
+HPCA 2026
+ISCA 2026 (Lightweight)
+ICCD 2025
+ICCD 2024
+ICCD 2023
 
 ## Awards
 
