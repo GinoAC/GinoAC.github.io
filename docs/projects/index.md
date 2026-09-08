@@ -2,28 +2,7 @@
 title: Projects
 ---
 
-## Current Projects
----
-
-* **BPU Architecture at a Startup**
-
-* **An Impractical Approach to Understanding Microarchitectural Predictors** — Exploring information theory and automata to figure out what sort of weird machines predictors are made of.
-
-* **Homebrew Compute Cluster** — Building a cluster from old laptops and seeing how many simulations I can run in parallel before it crashes.
-
----
-## Projects
----
-
-* **Software Instruction Prefetching**
-
-* **Coherence Simulation (C-Ramulator)**
-
-* **Coherence Security**
-
-* **Active Interposers as the Root of Trust**
-
-* **ChampSim** — Infrastructure support for academics.
+For current projects, see the [Home page]({{ site.baseurl }}/#projects).
 
 ---
 ## Publications
