@@ -1,5 +1,7 @@
 ---
 title: Blog
+hero_title: Byte-Sized Business
+hero_tagline: Computer architecture, security, memory, uarch predictors, and random junk
 ---
 
 A blog covering computer architecture, microarchitectural security, systems programming, and research. Expect occasional detours into books, music, and whatever else is on my mind. 

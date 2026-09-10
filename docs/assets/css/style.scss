@@ -34,3 +34,82 @@
     display: flex !important;
   }
 }
+
+/* A little more breathing room for a resume-style page of longer content. */
+.wrapper,
+section {
+  max-width: 760px;
+}
+
+#title .prompt {
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: #ffcc00;
+  margin-right: 8px;
+}
+
+#title .tagline {
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  letter-spacing: 0.3px;
+  font-size: 15px !important;
+}
+
+/* Publication / patent entries */
+.pub {
+  border-left: 3px solid #ffcc00;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 12px 16px;
+  margin: 0 0 16px;
+  border-radius: 0 3px 3px 0;
+}
+
+.pub-title {
+  font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+.pub-authors {
+  color: #b6b6b6;
+  font-size: 13px;
+  margin-bottom: 2px;
+}
+
+.pub-venue {
+  color: #8a8a8a;
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: flex-start;
+}
+
+.pub-link {
+  display: inline-block;
+  border: 1px solid #665600;
+  border-radius: 3px;
+  padding: 2px 10px;
+  font-size: 12px;
+  color: #ffcc00 !important;
+  cursor: pointer;
+  list-style: none;
+
+  &:hover {
+    background: rgba(255, 204, 0, 0.12);
+  }
+
+  &::-webkit-details-marker {
+    display: none;
+  }
+}
+
+.bibtex {
+  pre {
+    margin: 8px 0 0;
+    font-size: 12px;
+    white-space: pre-wrap;
+  }
+}
