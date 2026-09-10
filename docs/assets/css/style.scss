@@ -15,3 +15,22 @@
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
+
+.site-subnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+  margin-bottom: 1.5rem;
+
+  a {
+    padding: 4px 2px;
+  }
+}
+
+/* The midnight theme's own stylesheet hides any <nav> element below 480px
+   (intended only for its unused #header nav) — keep our page nav visible. */
+@media screen and (max-width: 480px) {
+  nav.site-subnav {
+    display: flex !important;
+  }
+}
