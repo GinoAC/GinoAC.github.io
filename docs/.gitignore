@@ -5,3 +5,7 @@ _site/
 .jekyll-metadata
 Gemfile
 Gemfile.lock
+_site/
+.sass-cache/
+*.swp
+run_local.sh
